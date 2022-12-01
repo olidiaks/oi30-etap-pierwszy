@@ -1,0 +1,3 @@
+/home/olidiaks/Dokumenty/Szkoła 2022 2023/Olimpiada informatyczna etap I/zbo/cmake-build-debug/CMakeFiles/zbo.dir
+/home/olidiaks/Dokumenty/Szkoła 2022 2023/Olimpiada informatyczna etap I/zbo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/olidiaks/Dokumenty/Szkoła 2022 2023/Olimpiada informatyczna etap I/zbo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
